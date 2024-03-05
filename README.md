@@ -22,15 +22,4 @@
   <img height="110em" align="right" alt="Rafa-yoda" src="https://media1.tenor.com/images/1e7a90f2a12b7a3b87b3972aeddb78a1/tenor.gif?itemid=13322953">
 </div>
   
-<div>
-  <a href="https://github.com/herculanodev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=herculanodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculanodev&layout=compact&langs_count=7&theme=dark"/>
 
-![Snake animation]
-(https://github.com/herculanodev/herculanodev/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?herculanodev=herculanodev&theme=reacy)]
-(https://github.com/herculanodev/herculanodev)
-
-</div>
