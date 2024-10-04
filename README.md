@@ -1,7 +1,7 @@
 ### Olá, meu nome é DANIEL! 🖥
 
 
-- 🔭 Hoje sou estagiário na Câmara Legislativa do Distrito Federal
+- 🔭 Hoje sou Desenvolvedor JR na Câmara Legislativa do Distrito Federal
 - 🌱 Estudando Express/Typescript
 - 📫 Contato no E-mail: dherculano93@gmail.com
 
