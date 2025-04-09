@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje sou Desenvolvedor JR na Câmara Legislativa do Distrito Federal
-- 🌱 Estudando Express/Typescript
+- 🌱 Estudando SpringBoot/React
 - 📫 Contato no E-mail: dherculano93@gmail.com
 
 
